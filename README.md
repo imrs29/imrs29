@@ -5,8 +5,8 @@
 <img   src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=TMF69je6zBrb4w&riu=http%3a%2f%2fwww.cartoonbucket.com%2fwp-content%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif&ehk=%2fuUhMW1M7LTRIvXg8OWTKCR1n9IoWkNK1igokCXhBkE%3d&risl=&pid=ImgRaw&r=0"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrs29&label=Profile%20views&color=0e75b6&style=flat" alt="imrs29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrs29" alt="imrs29" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrs29" alt="imrs29" /></a> </p> -->
 
 - 🔭 I’m currently working on **trip application**
 
